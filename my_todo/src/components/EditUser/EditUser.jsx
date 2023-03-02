@@ -84,7 +84,7 @@ async function updateUser(){
 
   return (
     <>
-      <Button variant="primary" onClick={()=>(handleShow(), setFlag(false))}>
+      <Button variant="primary" onClick={handleShow}>
        Update User
       </Button>
 

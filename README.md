@@ -58,10 +58,3 @@ The to-do website is a  web application that allows users to create and manage a
 * .env: It is a file that stores environment variables for an application. It provides a convenient way to store sensitive data such as database credentials and API keys outside of the codebase.
 
 * cors: It is a middleware that allows cross-origin resource sharing. It enables a web application to interact with resources from a different domain. It's often used in combination with Express to handle CORS-related issues.
-
-
-
-
-
-# To-Do
-# To-Do
