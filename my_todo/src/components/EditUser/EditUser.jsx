@@ -56,6 +56,7 @@ function EditUser({updateProfile, data}) {
 }
 
 async function updateUser(){
+  // Update user
   let {name, email, age} = newData
   // console.log(_id, title, description);
   if(validateUpdate()){
