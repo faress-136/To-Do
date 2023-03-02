@@ -59,3 +59,4 @@ The to-do website is a  web application that allows users to create and manage a
 
 * cors: It is a middleware that allows cross-origin resource sharing. It enables a web application to interact with resources from a different domain. It's often used in combination with Express to handle CORS-related issues.
 # To-Do-Application
+# To-Do-Application
