@@ -73,7 +73,7 @@ export default function NavBar({userData, logout}) {
         <Modal.Body className='text-dark'>
         <>
             <div className="form-group">
-              <div className='d-flex justify-content-center  align-items-center '>
+              <div className='d-flex justify-content-center align-items-center '>
               <h4>Are you sure you want to delete this user ?</h4>
               </div>
             </div>
