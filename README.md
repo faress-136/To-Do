@@ -1,5 +1,5 @@
 
-# To-do Application (Full Stack)
+# To-do Application (Full Stack --> MERN Stack)
 
 To-do application is a website built with one of the most famous libraries which is React.js, beside connecting to the database and API's using Node.js. 
 
